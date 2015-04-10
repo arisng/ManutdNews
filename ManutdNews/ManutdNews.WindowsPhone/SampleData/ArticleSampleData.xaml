@@ -1,0 +1,58 @@
+﻿<Models:Article xmlns:Models="using:ManutdNews.Models" xmlns:Imaging="using:Windows.UI.Xaml.Media.Imaging" Author="Aaberg, Jesper" ArticleUrl="Commodo lectus" ArticleSource="Conubia libero" IsInDesignMode="True" IsInDesignModeStatic="False" PubDateString="November 5, 2003" PubDate="01/10/2015" 
+Summary="The legendary Scottish coach says the Mexican has long had his heart set on playing for Los Blancos and is backing him to succeed at the Santiago Bernabeu" Title="Hernandez always wanted Madrid">
+	<Models:Article.Contents>
+		<Models:Content IsInDesignMode="True" IsInDesignModeStatic="False" Text="Pellentesque class aliquam cras">
+			<Models:Content.Image>
+				<Imaging:BitmapImage CreateOptions="IgnoreImageCache" DecodePixelHeight="93" DecodePixelWidth="39" DecodePixelType="Logical"/>
+			</Models:Content.Image>
+		</Models:Content>
+		<Models:Content IsInDesignMode="True" IsInDesignModeStatic="False" Text="Curae integer">
+			<Models:Content.Image>
+				<Imaging:BitmapImage CreateOptions="IgnoreImageCache" DecodePixelHeight="46" DecodePixelWidth="56" DecodePixelType="Physical"/>
+			</Models:Content.Image>
+		</Models:Content>
+		<Models:Content IsInDesignMode="True" IsInDesignModeStatic="False" Text="Donec curabitur">
+			<Models:Content.Image>
+				<Imaging:BitmapImage CreateOptions="None" DecodePixelHeight="90" DecodePixelWidth="14" DecodePixelType="Logical"/>
+			</Models:Content.Image>
+		</Models:Content>
+		<Models:Content IsInDesignMode="True" IsInDesignModeStatic="False" Text="Aenean duis suspendisse">
+			<Models:Content.Image>
+				<Imaging:BitmapImage CreateOptions="None" DecodePixelHeight="57" DecodePixelWidth="57" DecodePixelType="Logical"/>
+			</Models:Content.Image>
+		</Models:Content>
+		<Models:Content IsInDesignMode="True" IsInDesignModeStatic="False" Text="Mauris consectetuer">
+			<Models:Content.Image>
+				<Imaging:BitmapImage CreateOptions="None" DecodePixelHeight="34" DecodePixelWidth="45" DecodePixelType="Logical"/>
+			</Models:Content.Image>
+		</Models:Content>
+		<Models:Content IsInDesignMode="True" IsInDesignModeStatic="False" Text="Nunc condimentum phasellus">
+			<Models:Content.Image>
+				<Imaging:BitmapImage CreateOptions="None" DecodePixelHeight="20" DecodePixelWidth="59" DecodePixelType="Physical"/>
+			</Models:Content.Image>
+		</Models:Content>
+		<Models:Content IsInDesignMode="True" IsInDesignModeStatic="False" Text="Vestibulum nam maecenas etiam">
+			<Models:Content.Image>
+				<Imaging:BitmapImage CreateOptions="IgnoreImageCache" DecodePixelHeight="12" DecodePixelWidth="57" DecodePixelType="Physical"/>
+			</Models:Content.Image>
+		</Models:Content>
+		<Models:Content IsInDesignMode="True" IsInDesignModeStatic="False" Text="Amet sed adipiscing">
+			<Models:Content.Image>
+				<Imaging:BitmapImage CreateOptions="None" DecodePixelHeight="73" DecodePixelWidth="69" DecodePixelType="Physical"/>
+			</Models:Content.Image>
+		</Models:Content>
+		<Models:Content IsInDesignMode="True" IsInDesignModeStatic="False" Text="Scelerisque quisque vivamus dis">
+			<Models:Content.Image>
+				<Imaging:BitmapImage CreateOptions="IgnoreImageCache" DecodePixelHeight="47" DecodePixelWidth="47" DecodePixelType="Logical"/>
+			</Models:Content.Image>
+		</Models:Content>
+		<Models:Content IsInDesignMode="True" IsInDesignModeStatic="False" Text="Praesent accumsan">
+			<Models:Content.Image>
+				<Imaging:BitmapImage CreateOptions="None" DecodePixelHeight="70" DecodePixelWidth="23" DecodePixelType="Physical"/>
+			</Models:Content.Image>
+		</Models:Content>
+	</Models:Article.Contents>
+	<Models:Article.Image>
+		<Imaging:BitmapImage CreateOptions="None" DecodePixelHeight="73" DecodePixelWidth="86" DecodePixelType="Logical"/>
+	</Models:Article.Image>
+</Models:Article>

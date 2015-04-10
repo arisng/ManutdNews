@@ -1,0 +1,210 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Xp_InvalidNumArgs" xml:space="preserve">
+    <value>'{1}' の関数 '{0}' に含まれている引数の数が無効です。</value>
+  </data>
+  <data name="Xp_BadQueryObject" xml:space="preserve">
+    <value>これは無効なオブジェクトです。Compile() から返されたオブジェクトのみが input として渡されます。</value>
+  </data>
+  <data name="Xp_CurrentNotAllowed" xml:space="preserve">
+    <value>'current()' 関数をパターン内で使用することはできません。</value>
+  </data>
+  <data name="Xml_BadNameChar" xml:space="preserve">
+    <value>'{0}' 文字、16 進数値 {1} を名前に含むことはできません。</value>
+  </data>
+  <data name="Xml_EmptyName" xml:space="preserve">
+    <value>空文字列 '' は有効な名前ではありません。</value>
+  </data>
+  <data name="Xml_UserException" xml:space="preserve">
+    <value>{0}</value>
+  </data>
+  <data name="Xpn_BadPosition" xml:space="preserve">
+    <value>ナビゲーターの現在の位置に問題があるため、この操作は無効です。</value>
+  </data>
+  <data name="Xp_UndefVar" xml:space="preserve">
+    <value>変数 '{0}' は定義されていません。</value>
+  </data>
+  <data name="XmlUndefinedAlias" xml:space="preserve">
+    <value>名前空間プレフィックス '{0}' は定義されていません。</value>
+  </data>
+  <data name="NotSupported_MoveToId" xml:space="preserve">
+    <value>この XPathNavigator は ID をサポートしません。</value>
+  </data>
+  <data name="Xp_UndefinedXsltContext" xml:space="preserve">
+    <value>不明な関数があるため、このクエリには XsltContext が必要です。</value>
+  </data>
+  <data name="Xml_BadStartNameChar" xml:space="preserve">
+    <value>名前の先頭に '{0}' (16 進数値 {1}) を使用することはできません。</value>
+  </data>
+  <data name="Xp_InvalidToken" xml:space="preserve">
+    <value>'{0}' のトークンが無効です。</value>
+  </data>
+  <data name="InvalidOperation_UnexpectedEvaluation" xml:space="preserve">
+    <value>XPath 式が予期しない型 {0} に評価されました。</value>
+  </data>
+  <data name="Xp_FunctionFailed" xml:space="preserve">
+    <value>関数 '{0}()' が失敗しました。</value>
+  </data>
+  <data name="InvalidOperation_BadNodeType" xml:space="preserve">
+    <value>この操作は、型 {0} のノードでは無効です。</value>
+  </data>
+  <data name="Xp_NoContext" xml:space="preserve">
+    <value>名前空間マネージャーまたは XsltContext が必要です。このクエリには、プレフィックス、変数、またはユーザー定義の関数があります。</value>
+  </data>
+  <data name="Sch_EnumFinished" xml:space="preserve">
+    <value>列挙は既に完了しています。</value>
+  </data>
+  <data name="Xp_UndefFunc" xml:space="preserve">
+    <value>関数 '{0}()' は定義されていません。</value>
+  </data>
+  <data name="Xp_NotSupported" xml:space="preserve">
+    <value>XPath クエリ '{0}' はサポートされていません。</value>
+  </data>
+  <data name="Argument_CreateNavigator" xml:space="preserve">
+    <value>この XPathNavigator は、型 {0} のノード上には作成できません。</value>
+  </data>
+  <data name="Xp_InvalidArgumentType" xml:space="preserve">
+    <value>'{1}' の関数 '{0}' に対する引数をノードセットに変換することはできません。</value>
+  </data>
+  <data name="Xp_InvalidKeyPattern" xml:space="preserve">
+    <value>'{0}' は無効なキー パターンです。変数参照または 'key()' 関数が含まれています。</value>
+  </data>
+  <data name="Xp_UnclosedString" xml:space="preserve">
+    <value>閉じていない文字列です。</value>
+  </data>
+  <data name="Xp_InvalidPattern" xml:space="preserve">
+    <value>'{0}' は無効な XSLT パターンです。</value>
+  </data>
+  <data name="Xml_InvalidOperation" xml:space="preserve">
+    <value>現在のオブジェクトの状態では、操作を正しく行うことはできません。</value>
+  </data>
+  <data name="Xp_ExprExpected" xml:space="preserve">
+    <value>'{0}' は無効な式です。</value>
+  </data>
+  <data name="Xp_NodeSetExpected" xml:space="preserve">
+    <value>式はノードセットに対して評価する必要があります。</value>
+  </data>
+  <data name="Xp_InvalidName" xml:space="preserve">
+    <value>'{0}' の限定名が無効です。</value>
+  </data>
+  <data name="Sch_EnumNotStarted" xml:space="preserve">
+    <value>列挙が開始されていません。MoveNext を呼び出してください。</value>
+  </data>
+</root>

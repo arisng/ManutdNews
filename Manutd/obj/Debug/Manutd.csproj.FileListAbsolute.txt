@@ -1,0 +1,267 @@
+C:\Users\Anh\Documents\Visual Studio 2012\Projects\Manutd\Manutd\Bin\Debug\Resources\Images\ApplicationIcon.png
+C:\Users\Anh\Documents\Visual Studio 2012\Projects\Manutd\Manutd\Bin\Debug\Resources\Images\Background.png
+C:\Users\Anh\Documents\Visual Studio 2012\Projects\Manutd\Manutd\Bin\Debug\Manutd.dll
+C:\Users\Anh\Documents\Visual Studio 2012\Projects\Manutd\Manutd\Bin\Debug\Manutd.pdb
+C:\Users\Anh\Documents\Visual Studio 2012\Projects\Manutd\Manutd\Bin\Debug\AppManifest.xaml
+C:\Users\Anh\Documents\Visual Studio 2012\Projects\Manutd\Manutd\Bin\Debug\Manutd.xap
+C:\Users\Anh\Documents\Visual Studio 2012\Projects\Manutd\Manutd\Bin\Debug\GalaSoft.MvvmLight.Extras.WP71.dll
+C:\Users\Anh\Documents\Visual Studio 2012\Projects\Manutd\Manutd\Bin\Debug\GalaSoft.MvvmLight.WP71.dll
+C:\Users\Anh\Documents\Visual Studio 2012\Projects\Manutd\Manutd\Bin\Debug\HtmlAgilityPack.dll
+C:\Users\Anh\Documents\Visual Studio 2012\Projects\Manutd\Manutd\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Anh\Documents\Visual Studio 2012\Projects\Manutd\Manutd\Bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Anh\Documents\Visual Studio 2012\Projects\Manutd\Manutd\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Anh\Documents\Visual Studio 2012\Projects\Manutd\Manutd\Bin\Debug\System.Xml.XPath.dll
+C:\Users\Anh\Documents\Visual Studio 2012\Projects\Manutd\Manutd\Bin\Debug\GalaSoft.MvvmLight.Extras.WP71.pdb
+C:\Users\Anh\Documents\Visual Studio 2012\Projects\Manutd\Manutd\Bin\Debug\GalaSoft.MvvmLight.Extras.WP71.xml
+C:\Users\Anh\Documents\Visual Studio 2012\Projects\Manutd\Manutd\Bin\Debug\GalaSoft.MvvmLight.WP71.pdb
+C:\Users\Anh\Documents\Visual Studio 2012\Projects\Manutd\Manutd\Bin\Debug\GalaSoft.MvvmLight.WP71.xml
+C:\Users\Anh\Documents\Visual Studio 2012\Projects\Manutd\Manutd\Bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Anh\Documents\Visual Studio 2012\Projects\Manutd\Manutd\Bin\Debug\HtmlAgilityPack.xml
+C:\Users\Anh\Documents\Visual Studio 2012\Projects\Manutd\Manutd\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Anh\Documents\Visual Studio 2012\Projects\Manutd\Manutd\Bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Anh\Documents\Visual Studio 2012\Projects\Manutd\Manutd\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Anh\Documents\Visual Studio 2012\Projects\Manutd\Manutd\Bin\Debug\System.Xml.XPath.xml
+C:\Users\Anh\Documents\Visual Studio 2012\Projects\Manutd\Manutd\Bin\Debug\de\System.Xml.XPath.resources.dll
+C:\Users\Anh\Documents\Visual Studio 2012\Projects\Manutd\Manutd\Bin\Debug\es\System.Xml.XPath.resources.dll
+C:\Users\Anh\Documents\Visual Studio 2012\Projects\Manutd\Manutd\Bin\Debug\fr\System.Xml.XPath.resources.dll
+C:\Users\Anh\Documents\Visual Studio 2012\Projects\Manutd\Manutd\Bin\Debug\it\System.Xml.XPath.resources.dll
+C:\Users\Anh\Documents\Visual Studio 2012\Projects\Manutd\Manutd\Bin\Debug\ja\System.Xml.XPath.resources.dll
+C:\Users\Anh\Documents\Visual Studio 2012\Projects\Manutd\Manutd\Bin\Debug\ko\System.Xml.XPath.resources.dll
+C:\Users\Anh\Documents\Visual Studio 2012\Projects\Manutd\Manutd\Bin\Debug\ru\System.Xml.XPath.resources.dll
+C:\Users\Anh\Documents\Visual Studio 2012\Projects\Manutd\Manutd\Bin\Debug\zh-Hans\System.Xml.XPath.resources.dll
+C:\Users\Anh\Documents\Visual Studio 2012\Projects\Manutd\Manutd\Bin\Debug\zh-Hant\System.Xml.XPath.resources.dll
+C:\Users\Anh\Documents\Visual Studio 2012\Projects\Manutd\Manutd\obj\Debug\App.g.cs
+C:\Users\Anh\Documents\Visual Studio 2012\Projects\Manutd\Manutd\obj\Debug\MainPage.g.cs
+C:\Users\Anh\Documents\Visual Studio 2012\Projects\Manutd\Manutd\obj\Debug\Resources\Styles\NewsListItemTemplate.g.cs
+C:\Users\Anh\Documents\Visual Studio 2012\Projects\Manutd\Manutd\obj\Debug\Views\PanoramaPage1.g.cs
+C:\Users\Anh\Documents\Visual Studio 2012\Projects\Manutd\Manutd\obj\Debug\Manutd.g.resources
+C:\Users\Anh\Documents\Visual Studio 2012\Projects\Manutd\Manutd\obj\Debug\Manutd.dll
+C:\Users\Anh\Documents\Visual Studio 2012\Projects\Manutd\Manutd\obj\Debug\Manutd.pdb
+C:\Users\Anh\Documents\Visual Studio 2012\Projects\Manutd\Manutd\obj\Debug\XapCacheFile.xml
+C:\Users\Anh\Documents\Visual Studio 2012\Projects\Manutd\Manutd\obj\Debug\Manutd.csprojResolveAssemblyReference.cache
+F:\My Work Space\Windows Phone Projects\Manutd\Manutd\Bin\Debug\Manutd.dll
+F:\My Work Space\Windows Phone Projects\Manutd\Manutd\Bin\Debug\Manutd.pdb
+F:\My Work Space\Windows Phone Projects\Manutd\Manutd\Bin\Debug\AppManifest.xaml
+F:\My Work Space\Windows Phone Projects\Manutd\Manutd\Bin\Debug\Properties\WMAppManifest.xml
+F:\My Work Space\Windows Phone Projects\Manutd\Manutd\Bin\Debug\Microsoft.Phone.Controls.dll
+F:\My Work Space\Windows Phone Projects\Manutd\Manutd\Bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\My Work Space\Windows Phone Projects\Manutd\Manutd\Bin\Debug\System.Windows.Interactivity.dll
+F:\My Work Space\Windows Phone Projects\Manutd\Manutd\Bin\Debug\System.Xml.XPath.dll
+F:\My Work Space\Windows Phone Projects\Manutd\Manutd\Bin\Debug\Microsoft.Practices.ServiceLocation.xml
+F:\My Work Space\Windows Phone Projects\Manutd\Manutd\Bin\Debug\System.Xml.XPath.xml
+F:\My Work Space\Windows Phone Projects\Manutd\Manutd\Bin\Debug\de\System.Xml.XPath.resources.dll
+F:\My Work Space\Windows Phone Projects\Manutd\Manutd\Bin\Debug\es\System.Xml.XPath.resources.dll
+F:\My Work Space\Windows Phone Projects\Manutd\Manutd\Bin\Debug\fr\System.Xml.XPath.resources.dll
+F:\My Work Space\Windows Phone Projects\Manutd\Manutd\Bin\Debug\it\System.Xml.XPath.resources.dll
+F:\My Work Space\Windows Phone Projects\Manutd\Manutd\Bin\Debug\ja\System.Xml.XPath.resources.dll
+F:\My Work Space\Windows Phone Projects\Manutd\Manutd\Bin\Debug\ko\System.Xml.XPath.resources.dll
+F:\My Work Space\Windows Phone Projects\Manutd\Manutd\Bin\Debug\ru\System.Xml.XPath.resources.dll
+F:\My Work Space\Windows Phone Projects\Manutd\Manutd\Bin\Debug\zh-Hans\System.Xml.XPath.resources.dll
+F:\My Work Space\Windows Phone Projects\Manutd\Manutd\Bin\Debug\zh-Hant\System.Xml.XPath.resources.dll
+F:\My Work Space\Windows Phone Projects\Manutd\Manutd\obj\Debug\App.g.cs
+F:\My Work Space\Windows Phone Projects\Manutd\Manutd\obj\Debug\Resources\Styles\NewsListItemTemplate.g.cs
+F:\My Work Space\Windows Phone Projects\Manutd\Manutd\obj\Debug\Manutd.g.resources
+F:\My Work Space\Windows Phone Projects\Manutd\Manutd\obj\Debug\Manutd.dll
+F:\My Work Space\Windows Phone Projects\Manutd\Manutd\obj\Debug\Manutd.pdb
+F:\My Work Space\Windows Phone Projects\Manutd\Manutd\obj\Debug\XapCacheFile.xml
+F:\My Work Space\Windows Phone Projects\Manutd\Manutd\obj\Debug\Views\MainPage.g.cs
+F:\My Work Space\Windows Phone Projects\Manutd\Manutd\obj\Debug\Views\NewsDetail.g.cs
+F:\My Work Space\Windows Phone Projects\Manutd\Manutd\obj\Debug\Views\PivotPage1.g.cs
+F:\My Work Space\Windows Phone Projects\Manutd\Manutd\Bin\Debug\resources.pri
+F:\My Work Space\Windows Phone Projects\Manutd\Manutd\Bin\Debug\AppxManifest.xml
+F:\My Work Space\Windows Phone Projects\Manutd\Manutd\Bin\Debug\Manutd.build.appxrecipe
+F:\My Work Space\Windows Phone Projects\Manutd\Manutd\Bin\Debug\Manutd_Debug_AnyCPU.xap
+F:\My Work Space\Windows Phone Projects\Manutd\Manutd\Bin\Debug\GalaSoft.MvvmLight.Extras.WP8.dll
+F:\My Work Space\Windows Phone Projects\Manutd\Manutd\Bin\Debug\GalaSoft.MvvmLight.WP8.dll
+F:\My Work Space\Windows Phone Projects\Manutd\Manutd\Bin\Debug\GalaSoft.MvvmLight.Extras.WP8.pdb
+F:\My Work Space\Windows Phone Projects\Manutd\Manutd\Bin\Debug\GalaSoft.MvvmLight.Extras.WP8.xml
+F:\My Work Space\Windows Phone Projects\Manutd\Manutd\Bin\Debug\GalaSoft.MvvmLight.WP8.pdb
+F:\My Work Space\Windows Phone Projects\Manutd\Manutd\Bin\Debug\GalaSoft.MvvmLight.WP8.xml
+F:\My Work Space\Windows Phone Projects\Manutd\Manutd\obj\Debug\System.Xml.XPath\en-US\System.Xml.XPath.resw
+F:\My Work Space\Windows Phone Projects\Manutd\Manutd\obj\Debug\System.Xml.XPath\de\System.Xml.XPath.resw
+F:\My Work Space\Windows Phone Projects\Manutd\Manutd\obj\Debug\System.Xml.XPath\es\System.Xml.XPath.resw
+F:\My Work Space\Windows Phone Projects\Manutd\Manutd\obj\Debug\System.Xml.XPath\fr\System.Xml.XPath.resw
+F:\My Work Space\Windows Phone Projects\Manutd\Manutd\obj\Debug\System.Xml.XPath\it\System.Xml.XPath.resw
+F:\My Work Space\Windows Phone Projects\Manutd\Manutd\obj\Debug\System.Xml.XPath\ja\System.Xml.XPath.resw
+F:\My Work Space\Windows Phone Projects\Manutd\Manutd\obj\Debug\System.Xml.XPath\ko\System.Xml.XPath.resw
+F:\My Work Space\Windows Phone Projects\Manutd\Manutd\obj\Debug\System.Xml.XPath\ru\System.Xml.XPath.resw
+F:\My Work Space\Windows Phone Projects\Manutd\Manutd\obj\Debug\System.Xml.XPath\zh-Hans\System.Xml.XPath.resw
+F:\My Work Space\Windows Phone Projects\Manutd\Manutd\obj\Debug\System.Xml.XPath\zh-Hant\System.Xml.XPath.resw
+F:\My Work Space\Windows Phone Projects\Manutd\Manutd\obj\Debug\Manutd.csproj.GenerateResource.Cache
+F:\My Work Space\Windows Phone Projects\Manutd\Manutd\obj\Debug\System.Xml.XPath.pri
+F:\My Work Space\Windows Phone Projects\Manutd\Manutd\obj\Debug\System.Xml.XPath\qualifiers.txt
+F:\My Work Space\Windows Phone Projects\Manutd\Manutd\obj\Debug\priconfig.xml
+F:\My Work Space\Windows Phone Projects\Manutd\Manutd\obj\Debug\priconfig.xml.intermediate
+F:\My Work Space\Windows Phone Projects\Manutd\Manutd\obj\Debug\layout.resfiles
+F:\My Work Space\Windows Phone Projects\Manutd\Manutd\obj\Debug\layout.resfiles.intermediate
+F:\My Work Space\Windows Phone Projects\Manutd\Manutd\obj\Debug\resources.resfiles
+F:\My Work Space\Windows Phone Projects\Manutd\Manutd\obj\Debug\resources.resfiles.intermediate
+F:\My Work Space\Windows Phone Projects\Manutd\Manutd\obj\Debug\pri.resfiles
+F:\My Work Space\Windows Phone Projects\Manutd\Manutd\obj\Debug\pri.resfiles.intermediate
+F:\My Work Space\Windows Phone Projects\Manutd\Manutd\obj\Debug\qualifiers.txt
+F:\My Work Space\Windows Phone Projects\Manutd\Manutd\obj\Debug\qualifiers.txt.intermediate
+F:\My Work Space\Windows Phone Projects\Manutd\Manutd\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\My Work Space\Windows Phone Projects\Manutd\Manutd\obj\Debug\ProjectArchitectures.txt
+F:\My Work Space\Windows Phone Projects\Manutd\Manutd\obj\Debug\MDILProjectFiles.xml
+F:\My Work Space\Windows Phone Projects\Manutd\Manutd\obj\Debug\Manutd.csprojResolveAssemblyReference.cache
+F:\My Work Space\Windows Phone Projects\Manutd\Manutd\obj\Debug\Resources\Styles\ProgressRing.g.cs
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\obj\Debug\App.g.cs
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\obj\Debug\Resources\Styles\NewsListItemTemplate.g.cs
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\obj\Debug\Resources\Styles\ProgressRing.g.cs
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\obj\Debug\Views\MainPage.g.cs
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\obj\Debug\Views\PivotPage1.g.cs
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\obj\Debug\Manutd.g.resources
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\obj\Debug\Manutd.dll
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\Bin\Debug\Manutd.dll
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\Bin\Debug\Manutd.pdb
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\Bin\Debug\resources.pri
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\Bin\Debug\AppxManifest.xml
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\Bin\Debug\Manutd.build.appxrecipe
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\Bin\Debug\Properties\WMAppManifest.xml
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\Bin\Debug\AppManifest.xaml
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\Bin\Debug\Manutd_Debug_AnyCPU.xap
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\Bin\Debug\GalaSoft.MvvmLight.dll
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\Bin\Debug\GalaSoft.MvvmLight.Extras.dll
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\Bin\Debug\Microsoft.Phone.Controls.dll
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\Bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\Bin\Debug\System.Windows.Interactivity.dll
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\Bin\Debug\System.Xml.XPath.dll
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\Bin\Debug\GalaSoft.MvvmLight.pdb
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\Bin\Debug\GalaSoft.MvvmLight.xml
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\Bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\Bin\Debug\GalaSoft.MvvmLight.Extras.xml
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\Bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\Bin\Debug\Microsoft.Practices.ServiceLocation.xml
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\Bin\Debug\System.Xml.XPath.xml
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\Bin\Debug\de\System.Xml.XPath.resources.dll
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\Bin\Debug\es\System.Xml.XPath.resources.dll
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\Bin\Debug\fr\System.Xml.XPath.resources.dll
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\Bin\Debug\it\System.Xml.XPath.resources.dll
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\Bin\Debug\ja\System.Xml.XPath.resources.dll
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\Bin\Debug\ko\System.Xml.XPath.resources.dll
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\Bin\Debug\ru\System.Xml.XPath.resources.dll
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\Bin\Debug\zh-Hans\System.Xml.XPath.resources.dll
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\Bin\Debug\zh-Hant\System.Xml.XPath.resources.dll
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\obj\Debug\Manutd.pdb
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\obj\Debug\Microsoft.Practices.ServiceLocation\en-US\Microsoft.Practices.ServiceLocation.Properties.Resources.resw
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\obj\Debug\Manutd.csproj.GenerateResource.Cache
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\obj\Debug\Microsoft.Practices.ServiceLocation.pri
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\obj\Debug\Microsoft.Practices.ServiceLocation\qualifiers.txt
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\obj\Debug\System.Xml.XPath.pri
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\obj\Debug\System.Xml.XPath\qualifiers.txt
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\obj\Debug\priconfig.xml
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\obj\Debug\priconfig.xml.intermediate
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\obj\Debug\layout.resfiles
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\obj\Debug\layout.resfiles.intermediate
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\obj\Debug\resources.resfiles
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\obj\Debug\resources.resfiles.intermediate
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\obj\Debug\pri.resfiles
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\obj\Debug\pri.resfiles.intermediate
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\obj\Debug\qualifiers.txt
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\obj\Debug\qualifiers.txt.intermediate
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\obj\Debug\ProjectArchitectures.txt
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\obj\Debug\MDILProjectFiles.xml
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\obj\Debug\XapCacheFile.xml
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\obj\Debug\System.Xml.XPath\en-US\System.Xml.XPath.resw
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\obj\Debug\System.Xml.XPath\de\System.Xml.XPath.resw
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\obj\Debug\System.Xml.XPath\es\System.Xml.XPath.resw
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\obj\Debug\System.Xml.XPath\fr\System.Xml.XPath.resw
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\obj\Debug\System.Xml.XPath\it\System.Xml.XPath.resw
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\obj\Debug\System.Xml.XPath\ja\System.Xml.XPath.resw
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\obj\Debug\System.Xml.XPath\ko\System.Xml.XPath.resw
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\obj\Debug\System.Xml.XPath\ru\System.Xml.XPath.resw
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\obj\Debug\System.Xml.XPath\zh-Hans\System.Xml.XPath.resw
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\obj\Debug\System.Xml.XPath\zh-Hant\System.Xml.XPath.resw
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\obj\Debug\Manutd.csprojResolveAssemblyReference.cache
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\obj\Debug\Microsoft.Practices.ServiceLocation\layout.resfiles
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\obj\Debug\Microsoft.Practices.ServiceLocation\layout.resfiles.intermediate
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\obj\Debug\Microsoft.Practices.ServiceLocation\Resources.resfiles
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\obj\Debug\Microsoft.Practices.ServiceLocation\Resources.resfiles.intermediate
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\obj\Debug\Microsoft.Practices.ServiceLocation\pri.resfiles
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\obj\Debug\Microsoft.Practices.ServiceLocation\pri.resfiles.intermediate
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\obj\Debug\Microsoft.Practices.ServiceLocation\priconfig.xml
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\obj\Debug\Microsoft.Practices.ServiceLocation\priconfig.xml.intermediate
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\obj\Debug\System.Xml.XPath\layout.resfiles
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\obj\Debug\System.Xml.XPath\layout.resfiles.intermediate
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\obj\Debug\System.Xml.XPath\Resources.resfiles
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\obj\Debug\System.Xml.XPath\Resources.resfiles.intermediate
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\obj\Debug\System.Xml.XPath\pri.resfiles
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\obj\Debug\System.Xml.XPath\pri.resfiles.intermediate
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\obj\Debug\System.Xml.XPath\priconfig.xml
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\obj\Debug\System.Xml.XPath\priconfig.xml.intermediate
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\Bin\Debug\GalaSoft.MvvmLight.Platform.dll
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\Bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\Bin\Debug\GalaSoft.MvvmLight.Platform.xml
+F:\My Work Space\Windows Phone Projects\ManutdSVN\Manutd\obj\Debug\Views\NewsDetailsPage.g.cs
+F:\My Work Space\Windows Phone Projects\ManutdNews\Manutd\Bin\Debug\Manutd.dll
+F:\My Work Space\Windows Phone Projects\ManutdNews\Manutd\Bin\Debug\Manutd.pdb
+F:\My Work Space\Windows Phone Projects\ManutdNews\Manutd\Bin\Debug\resources.pri
+F:\My Work Space\Windows Phone Projects\ManutdNews\Manutd\Bin\Debug\AppxManifest.xml
+F:\My Work Space\Windows Phone Projects\ManutdNews\Manutd\Bin\Debug\Manutd.build.appxrecipe
+F:\My Work Space\Windows Phone Projects\ManutdNews\Manutd\Bin\Debug\Properties\WMAppManifest.xml
+F:\My Work Space\Windows Phone Projects\ManutdNews\Manutd\Bin\Debug\AppManifest.xaml
+F:\My Work Space\Windows Phone Projects\ManutdNews\Manutd\Bin\Debug\Manutd_Debug_AnyCPU.xap
+F:\My Work Space\Windows Phone Projects\ManutdNews\Manutd\Bin\Debug\GalaSoft.MvvmLight.dll
+F:\My Work Space\Windows Phone Projects\ManutdNews\Manutd\Bin\Debug\GalaSoft.MvvmLight.Extras.dll
+F:\My Work Space\Windows Phone Projects\ManutdNews\Manutd\Bin\Debug\GalaSoft.MvvmLight.Platform.dll
+F:\My Work Space\Windows Phone Projects\ManutdNews\Manutd\Bin\Debug\Microsoft.Phone.Controls.dll
+F:\My Work Space\Windows Phone Projects\ManutdNews\Manutd\Bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\My Work Space\Windows Phone Projects\ManutdNews\Manutd\Bin\Debug\System.Windows.Interactivity.dll
+F:\My Work Space\Windows Phone Projects\ManutdNews\Manutd\Bin\Debug\System.Xml.XPath.dll
+F:\My Work Space\Windows Phone Projects\ManutdNews\Manutd\Bin\Debug\GalaSoft.MvvmLight.pdb
+F:\My Work Space\Windows Phone Projects\ManutdNews\Manutd\Bin\Debug\GalaSoft.MvvmLight.xml
+F:\My Work Space\Windows Phone Projects\ManutdNews\Manutd\Bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+F:\My Work Space\Windows Phone Projects\ManutdNews\Manutd\Bin\Debug\GalaSoft.MvvmLight.Extras.xml
+F:\My Work Space\Windows Phone Projects\ManutdNews\Manutd\Bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+F:\My Work Space\Windows Phone Projects\ManutdNews\Manutd\Bin\Debug\GalaSoft.MvvmLight.Platform.xml
+F:\My Work Space\Windows Phone Projects\ManutdNews\Manutd\Bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+F:\My Work Space\Windows Phone Projects\ManutdNews\Manutd\Bin\Debug\Microsoft.Practices.ServiceLocation.xml
+F:\My Work Space\Windows Phone Projects\ManutdNews\Manutd\Bin\Debug\System.Xml.XPath.xml
+F:\My Work Space\Windows Phone Projects\ManutdNews\Manutd\Bin\Debug\de\System.Xml.XPath.resources.dll
+F:\My Work Space\Windows Phone Projects\ManutdNews\Manutd\Bin\Debug\es\System.Xml.XPath.resources.dll
+F:\My Work Space\Windows Phone Projects\ManutdNews\Manutd\Bin\Debug\fr\System.Xml.XPath.resources.dll
+F:\My Work Space\Windows Phone Projects\ManutdNews\Manutd\Bin\Debug\it\System.Xml.XPath.resources.dll
+F:\My Work Space\Windows Phone Projects\ManutdNews\Manutd\Bin\Debug\ja\System.Xml.XPath.resources.dll
+F:\My Work Space\Windows Phone Projects\ManutdNews\Manutd\Bin\Debug\ko\System.Xml.XPath.resources.dll
+F:\My Work Space\Windows Phone Projects\ManutdNews\Manutd\Bin\Debug\ru\System.Xml.XPath.resources.dll
+F:\My Work Space\Windows Phone Projects\ManutdNews\Manutd\Bin\Debug\zh-Hans\System.Xml.XPath.resources.dll
+F:\My Work Space\Windows Phone Projects\ManutdNews\Manutd\Bin\Debug\zh-Hant\System.Xml.XPath.resources.dll
+F:\My Work Space\Windows Phone Projects\ManutdNews\Manutd\obj\Debug\Manutd.csprojResolveAssemblyReference.cache
+F:\My Work Space\Windows Phone Projects\ManutdNews\Manutd\obj\Debug\App.g.cs
+F:\My Work Space\Windows Phone Projects\ManutdNews\Manutd\obj\Debug\Resources\Styles\NewsListItemTemplate.g.cs
+F:\My Work Space\Windows Phone Projects\ManutdNews\Manutd\obj\Debug\Resources\Styles\ProgressRing.g.cs
+F:\My Work Space\Windows Phone Projects\ManutdNews\Manutd\obj\Debug\Views\MainPage.g.cs
+F:\My Work Space\Windows Phone Projects\ManutdNews\Manutd\obj\Debug\Views\NewsDetailsPage.g.cs
+F:\My Work Space\Windows Phone Projects\ManutdNews\Manutd\obj\Debug\Views\PivotPage1.g.cs
+F:\My Work Space\Windows Phone Projects\ManutdNews\Manutd\obj\Debug\Manutd.g.resources
+F:\My Work Space\Windows Phone Projects\ManutdNews\Manutd\obj\Debug\Manutd.dll
+F:\My Work Space\Windows Phone Projects\ManutdNews\Manutd\obj\Debug\Manutd.pdb
+F:\My Work Space\Windows Phone Projects\ManutdNews\Manutd\obj\Debug\Microsoft.Practices.ServiceLocation\en-US\Microsoft.Practices.ServiceLocation.Properties.Resources.resw
+F:\My Work Space\Windows Phone Projects\ManutdNews\Manutd\obj\Debug\Manutd.csproj.GenerateResource.Cache
+F:\My Work Space\Windows Phone Projects\ManutdNews\Manutd\obj\Debug\Microsoft.Practices.ServiceLocation\layout.resfiles
+F:\My Work Space\Windows Phone Projects\ManutdNews\Manutd\obj\Debug\Microsoft.Practices.ServiceLocation\layout.resfiles.intermediate
+F:\My Work Space\Windows Phone Projects\ManutdNews\Manutd\obj\Debug\Microsoft.Practices.ServiceLocation\Resources.resfiles
+F:\My Work Space\Windows Phone Projects\ManutdNews\Manutd\obj\Debug\Microsoft.Practices.ServiceLocation\Resources.resfiles.intermediate
+F:\My Work Space\Windows Phone Projects\ManutdNews\Manutd\obj\Debug\Microsoft.Practices.ServiceLocation\pri.resfiles
+F:\My Work Space\Windows Phone Projects\ManutdNews\Manutd\obj\Debug\Microsoft.Practices.ServiceLocation\pri.resfiles.intermediate
+F:\My Work Space\Windows Phone Projects\ManutdNews\Manutd\obj\Debug\Microsoft.Practices.ServiceLocation\priconfig.xml
+F:\My Work Space\Windows Phone Projects\ManutdNews\Manutd\obj\Debug\Microsoft.Practices.ServiceLocation\priconfig.xml.intermediate
+F:\My Work Space\Windows Phone Projects\ManutdNews\Manutd\obj\Debug\Microsoft.Practices.ServiceLocation.pri
+F:\My Work Space\Windows Phone Projects\ManutdNews\Manutd\obj\Debug\Microsoft.Practices.ServiceLocation\qualifiers.txt
+F:\My Work Space\Windows Phone Projects\ManutdNews\Manutd\obj\Debug\System.Xml.XPath.pri
+F:\My Work Space\Windows Phone Projects\ManutdNews\Manutd\obj\Debug\System.Xml.XPath\qualifiers.txt
+F:\My Work Space\Windows Phone Projects\ManutdNews\Manutd\obj\Debug\priconfig.xml
+F:\My Work Space\Windows Phone Projects\ManutdNews\Manutd\obj\Debug\priconfig.xml.intermediate
+F:\My Work Space\Windows Phone Projects\ManutdNews\Manutd\obj\Debug\layout.resfiles
+F:\My Work Space\Windows Phone Projects\ManutdNews\Manutd\obj\Debug\layout.resfiles.intermediate
+F:\My Work Space\Windows Phone Projects\ManutdNews\Manutd\obj\Debug\resources.resfiles
+F:\My Work Space\Windows Phone Projects\ManutdNews\Manutd\obj\Debug\resources.resfiles.intermediate
+F:\My Work Space\Windows Phone Projects\ManutdNews\Manutd\obj\Debug\pri.resfiles
+F:\My Work Space\Windows Phone Projects\ManutdNews\Manutd\obj\Debug\pri.resfiles.intermediate
+F:\My Work Space\Windows Phone Projects\ManutdNews\Manutd\obj\Debug\qualifiers.txt
+F:\My Work Space\Windows Phone Projects\ManutdNews\Manutd\obj\Debug\qualifiers.txt.intermediate
+F:\My Work Space\Windows Phone Projects\ManutdNews\Manutd\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\My Work Space\Windows Phone Projects\ManutdNews\Manutd\obj\Debug\ProjectArchitectures.txt
+F:\My Work Space\Windows Phone Projects\ManutdNews\Manutd\obj\Debug\MDILProjectFiles.xml
+F:\My Work Space\Windows Phone Projects\ManutdNews\Manutd\obj\Debug\XapCacheFile.xml

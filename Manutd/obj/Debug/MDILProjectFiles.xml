@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Files>
+  <XAPFiles>
+    <File>resources.pri</File>
+    <File>Manutd.dll</File>
+    <File>Assets\BadgeLogo.png</File>
+    <File>Assets\Logo.png</File>
+    <File>Assets\SplashScreen.png</File>
+    <File>Assets\SquareTile150x150.png</File>
+    <File>Assets\SquareTile71x71.png</File>
+    <File>Assets\StoreLogo.png</File>
+    <File>Assets\WideLogo.png</File>
+    <File>Resources\Images\415594_heros.jpg</File>
+    <File>Resources\Images\ApplicationIcon.png</File>
+    <File>Resources\Images\article-pic1.png</File>
+    <File>Resources\Images\Background.png</File>
+    <File>Resources\Images\SplashScreenImage.jpg</File>
+    <File>AppManifest.xaml</File>
+    <File Type="PCL">GalaSoft.MvvmLight.dll</File>
+    <File Type="PCL">GalaSoft.MvvmLight.Extras.dll</File>
+    <File>GalaSoft.MvvmLight.Platform.dll</File>
+    <File>HtmlAgilityPack.dll</File>
+    <File>Microsoft.Phone.Controls.dll</File>
+    <File Type="PCL">Microsoft.Practices.ServiceLocation.dll</File>
+    <File>System.Windows.Interactivity.dll</File>
+    <File>System.Xml.XPath.dll</File>
+    <File>GalaSoft.MvvmLight.xml</File>
+    <File>GalaSoft.MvvmLight.Extras.xml</File>
+    <File>GalaSoft.MvvmLight.Platform.xml</File>
+    <File>Microsoft.Practices.ServiceLocation.xml</File>
+    <File>System.Xml.XPath.xml</File>
+    <File>Resources\Images\manutd_logo.png</File>
+    <File>WMAppManifest.xml</File>
+    <File>AppxManifest.xml</File>
+  </XAPFiles>
+  <APPXFiles />
+</Files>

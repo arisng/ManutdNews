@@ -1,0 +1,210 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Xp_InvalidNumArgs" xml:space="preserve">
+    <value>“{1}”中的函数“{0}”的参数数目无效。</value>
+  </data>
+  <data name="Xp_BadQueryObject" xml:space="preserve">
+    <value>这是一个无效的对象。只有从 Compile()返回的对象才能作为输入值传递。</value>
+  </data>
+  <data name="Xp_CurrentNotAllowed" xml:space="preserve">
+    <value>“current()”函数不能在模式中使用。</value>
+  </data>
+  <data name="Xml_BadNameChar" xml:space="preserve">
+    <value>名称中不能包含“{0}”字符(十六进制值 {1})。</value>
+  </data>
+  <data name="Xml_EmptyName" xml:space="preserve">
+    <value>空字符串 '' 不是有效名称。</value>
+  </data>
+  <data name="Xml_UserException" xml:space="preserve">
+    <value>{0}</value>
+  </data>
+  <data name="Xpn_BadPosition" xml:space="preserve">
+    <value>由于导航器的当前位置，操作无效。</value>
+  </data>
+  <data name="Xp_UndefVar" xml:space="preserve">
+    <value>变量“{0}”未定义。</value>
+  </data>
+  <data name="XmlUndefinedAlias" xml:space="preserve">
+    <value>未定义命名空间前缀“{0}”。</value>
+  </data>
+  <data name="NotSupported_MoveToId" xml:space="preserve">
+    <value>此 XPathNavigator 不支持 ID。</value>
+  </data>
+  <data name="Xp_UndefinedXsltContext" xml:space="preserve">
+    <value>由于存在未知的函数，此查询需要 XsltContext。</value>
+  </data>
+  <data name="Xml_BadStartNameChar" xml:space="preserve">
+    <value>名称不能以“{0}”字符(十六进制值 {1})开头。</value>
+  </data>
+  <data name="Xp_InvalidToken" xml:space="preserve">
+    <value>“{0}”具有无效的标记。</value>
+  </data>
+  <data name="InvalidOperation_UnexpectedEvaluation" xml:space="preserve">
+    <value>XPath 表达式的计算结果为意外类型 {0}。</value>
+  </data>
+  <data name="Xp_FunctionFailed" xml:space="preserve">
+    <value>函数“{0}()”失败。</value>
+  </data>
+  <data name="InvalidOperation_BadNodeType" xml:space="preserve">
+    <value>此操作在 {0} 类型的节点上无效。</value>
+  </data>
+  <data name="Xp_NoContext" xml:space="preserve">
+    <value>需要命名空间管理器或 XsltContext。此查询具有前缀、变量或用户定义的函数。</value>
+  </data>
+  <data name="Sch_EnumFinished" xml:space="preserve">
+    <value>枚举已完成。</value>
+  </data>
+  <data name="Xp_UndefFunc" xml:space="preserve">
+    <value>函数“{0}()”未定义。</value>
+  </data>
+  <data name="Xp_NotSupported" xml:space="preserve">
+    <value>不支持 XPath 查询“{0}”。</value>
+  </data>
+  <data name="Argument_CreateNavigator" xml:space="preserve">
+    <value>无法在 {0} 类型的节点上创建此 XPathNavigator。</value>
+  </data>
+  <data name="Xp_InvalidArgumentType" xml:space="preserve">
+    <value>无法将“{1}”中函数“{0}”的参数转换为节点集。</value>
+  </data>
+  <data name="Xp_InvalidKeyPattern" xml:space="preserve">
+    <value>“{0}”是无效的键模式。它不是包含变量引用，就是包含“key()”函数。</value>
+  </data>
+  <data name="Xp_UnclosedString" xml:space="preserve">
+    <value>这是一个未闭合的字符串。</value>
+  </data>
+  <data name="Xp_InvalidPattern" xml:space="preserve">
+    <value>“{0}”是无效的 XSLT 模式。</value>
+  </data>
+  <data name="Xml_InvalidOperation" xml:space="preserve">
+    <value>由于对象的当前状态，操作无效。</value>
+  </data>
+  <data name="Xp_ExprExpected" xml:space="preserve">
+    <value>“{0}”是无效表达式。</value>
+  </data>
+  <data name="Xp_NodeSetExpected" xml:space="preserve">
+    <value>表达式的计算结果必须为节点集。</value>
+  </data>
+  <data name="Xp_InvalidName" xml:space="preserve">
+    <value>“{0}”具有无效的限定名。</value>
+  </data>
+  <data name="Sch_EnumNotStarted" xml:space="preserve">
+    <value>枚举尚未开始。调用 MoveNext。</value>
+  </data>
+</root>

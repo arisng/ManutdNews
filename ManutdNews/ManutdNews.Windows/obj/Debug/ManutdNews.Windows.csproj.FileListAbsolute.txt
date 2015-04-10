@@ -1,0 +1,11 @@
+F:\My Work Space\Windows Phone Projects\ManutdNews\ManutdNews\ManutdNews.Windows\obj\Debug\ManutdNews.Windows.csprojResolveAssemblyReference.cache
+F:\My Work Space\Windows Phone Projects\ManutdNews\ManutdNews\ManutdNews.Windows\obj\Debug\App.g.i.cs
+F:\My Work Space\Windows Phone Projects\ManutdNews\ManutdNews\ManutdNews.Windows\obj\Debug\App.g.cs
+F:\My Work Space\Windows Phone Projects\ManutdNews\ManutdNews\ManutdNews.Windows\obj\Debug\MainPage.g.i.cs
+F:\My Work Space\Windows Phone Projects\ManutdNews\ManutdNews\ManutdNews.Windows\obj\Debug\MainPage.g.cs
+F:\My Work Space\Windows Phone Projects\ManutdNews\ManutdNews\ManutdNews.Windows\obj\Debug\XamlTypeInfo.g.cs
+F:\My Work Space\Windows Phone Projects\ManutdNews\ManutdNews\ManutdNews.Windows\obj\Debug\App.xaml
+F:\My Work Space\Windows Phone Projects\ManutdNews\ManutdNews\ManutdNews.Windows\obj\Debug\MainPage.xaml
+F:\My Work Space\Windows Phone Projects\ManutdNews\ManutdNews\ManutdNews.Windows\obj\Debug\App.xbf
+F:\My Work Space\Windows Phone Projects\ManutdNews\ManutdNews\ManutdNews.Windows\obj\Debug\MainPage.xbf
+F:\My Work Space\Windows Phone Projects\ManutdNews\ManutdNews\ManutdNews.Windows\obj\Debug\XamlSaveStateFile.xml
